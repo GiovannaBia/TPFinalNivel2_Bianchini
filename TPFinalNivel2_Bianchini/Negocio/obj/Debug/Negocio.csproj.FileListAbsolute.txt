@@ -1,0 +1,9 @@
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\bin\Debug\Dominio.dll
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alexis\source\repos\TPFinalNivel2_Bianchini\Negocio\obj\Debug\Negocio.pdb
